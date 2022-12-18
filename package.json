@@ -1,0 +1,25 @@
+{
+  "name": "dbus-next-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprotzman/dbus-next-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jprotzman/dbus-next-testing/issues"
+  },
+  "homepage": "https://github.com/jprotzman/dbus-next-testing#readme",
+  "dependencies": {
+    "dbus-next": "^0.10.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.20.5"
+  }
+}
